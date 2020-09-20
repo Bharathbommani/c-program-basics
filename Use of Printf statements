@@ -1,0 +1,7 @@
+#include<stdio.h>
+#imclude<conio.h>
+int main() 
+{
+ printf("hii google");
+ Printf("welcome to Google");
+ }
